@@ -18,5 +18,5 @@ public class Application {
     
     private boolean attended;
     
-    // constructors, getters, and setters
+     // constructors, getters, and setters
 }
